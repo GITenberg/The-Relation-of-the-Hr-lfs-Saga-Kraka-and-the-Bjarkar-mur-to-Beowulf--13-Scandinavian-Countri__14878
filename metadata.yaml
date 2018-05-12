@@ -1,0 +1,30 @@
+_repo: The-Relation-of-the-Hr-lfs-Saga-Kraka-and-the-Bjarkar-mur-to-Beowulf--13-Scandinavian-Countri__14878
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Olson, Oscar Ludvig
+    birthdate: 1872
+    gutenberg_agent_id: '5729'
+    url: http://www.gutenberg.org/2009/agents/5729
+description: ''
+gutenberg_issued: '2005-02-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14878'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Beowulf'
+- !lcc 'PT'
+- !lcsh 'England -- Civilization -- Scandinavian influences'
+- !lcsh 'Hrólfs saga Kraka'
+- !lcsh 'Bjarkarimur'
+title: "The Relation of the Hrólfs Saga Kraka and the Bjarkarímur to Beowulf\r\nA\
+  \ Contribution To The History Of Saga Development In England And The\r\nScandinavian\
+  \ Countries"
+url: http://www.gutenberg.org/ebooks/14878
