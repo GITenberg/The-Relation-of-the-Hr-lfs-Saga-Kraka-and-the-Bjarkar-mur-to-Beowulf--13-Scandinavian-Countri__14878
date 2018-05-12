@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '5729'
     url: http://www.gutenberg.org/2009/agents/5729
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14878#The-Relation-of-the-Hr-lfs-Saga-Kraka-and-the-Bjarkar-mur-to-Beowulf--13-Scandinavian-Countri_
 gutenberg_issued: '2005-02-02'
 gutenberg_type: Text
 identifiers:
